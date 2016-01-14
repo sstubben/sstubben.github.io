@@ -10,13 +10,13 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://sstubben.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: true
 disqus_shortname: 'simonstubben'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
+url:            'http://sstubben.github.io'
 author:         'Simon Stubben'
 authorTwitter:  'simonstubben'
 
@@ -41,3 +41,5 @@ defaults:
             type: drafts
         values:
             layout: post
+
+exclude: ['Gemfile', 'Gemfile.lock', 'bin']
