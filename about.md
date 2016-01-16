@@ -7,15 +7,24 @@ profile: true
 Hi, I am Simon Stubben.
 ===================  
 <br />
-I'm a consultant, startup advisor and developer living in Kuala Lumpur.
-I enjoy it here, because it's always hot and I have my girlfriend here.
-
-You can find me on Twitter, Github, ...
-
-I'm always up for a chat, so feel free to <a href="mailto:simonstubben@gmail.com?Subject=Hello.">email me</a> or book a time with me for a Skype meeting.
+I'm a Danish consultant, startup advisor and Ruby On Rails developer living in Kuala Lumpur.
 
 
+You can find me on <a href="http://twitter.com/simonstubben" target="_blank">Twitter</a>, <a href="http://github.com/sstubben" target="_blank">Github</a>, and <a href="http://www.linkedin.com/in/simonstubben" target="_blank">LinkedIn</a>
 
-This is a static page. It could be an 'about page' if you'd like.
+I'm always up for a chat, so feel free to <a href="mailto:simonstubben@gmail.com?Subject=Hello.">email me</a> or <a href="https://calendly.com/simonstubben/" target="_blank">book a time with me</a> for a Skype meeting.
+
+
+
+My personal blog - be aware; it's in Danish only - where
+
+Silicon Drinkabout
+
+Det Frugtbare Kompagni (The Fruitful Fellowship) a think-tank I started in 2012 in Copenhagen, and have tried to keep on
+
+BillyTracker
+
+Project Canvas
+
 
 {% include footer.html %}
