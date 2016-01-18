@@ -366,6 +366,12 @@ img {
 	border-radius: 3px;
 }
 
+p img {
+	width: 50%;
+	max-width: 100%;
+	border-radius: 3px;
+}
+
 /* Made with Cactus Badge */
 #badge {
 	position: absolute;
@@ -380,6 +386,7 @@ Post List
 =========================================== */
 #post-list,#archive-list {
 	margin-top: 100px;
+	margin-left: 0;
 }
 
 #post-list li,#archive-list li {

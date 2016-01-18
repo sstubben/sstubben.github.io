@@ -18,13 +18,27 @@ I'm always up for a chat, so feel free to <a href="mailto:simonstubben@gmail.com
 
 My personal blog - be aware; it's in Danish only - where
 
-Silicon Drinkabout
+![sstubben.dk - personal blog]({{ site.baseurl }}assets/images/sstubben.jpg)
 
 Det Frugtbare Kompagni (The Fruitful Fellowship) a think-tank I started in 2012 in Copenhagen, and have tried to keep on
 
-BillyTracker
+![Det Frugtbare Kompagni]({{ site.baseurl }}assets/images/frugtbare.jpg)
 
 Project Canvas
+
+![Project Canvas]({{ site.baseurl }}assets/images/projectcanvas.jpg)
+
+BillyTracker
+
+![BillyTracker]({{ site.baseurl }}assets/images/billytracker.jpg)
+
+Passioneur
+
+![Passioneur]({{ site.baseurl }}assets/images/passioneur.jpg)
+
+Silicon Drinkabout
+
+![Silicon Drinkabout Copenhagen]({{ site.baseurl }}assets/images/silicon_drinkabt_cph.jpg)
 
 
 {% include footer.html %}
