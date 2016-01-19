@@ -1,6 +1,7 @@
 name: Simon Stubben - Tech & Process Consultant
 description: Software process setup & optimization, software project management, Ruby On Rails development. <a href="mailto:simonstubben@gmail.com?Subject=Hello." target="_top">Get in touch</a>.
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+meta_description: Software process setup & optimization, software project management, Ruby On Rails development. Trustworthy and valuable consultancy. Get in touch.
+key_words: software development, software consultancy, software project management, software process optimization
 
 aboutPage: true
 consultingPage: true
@@ -10,13 +11,12 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://sstubben.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://simonstubben.com'
 disqus: true
 disqus_shortname: 'simonstubben'
 
 # Details for the RSS feed generator
-url:            'http://sstubben.github.io'
+url:            'http://simonstubben.com'
 author:         'Simon Stubben'
 authorTwitter:  'simonstubben'
 
