@@ -11,7 +11,7 @@ The last years I have participated in starting two companies in Denmark. I have 
 
 What value I bring
 ------------------
-Due to my experience and my background as a BSc. in Software Engineering and MSc. in Management Engineering, the following fields are of great interest to me:
+I have vast experience in software projects; from idea generation to execution, test and delivery. Due to my experience and my background as a BSc. in Software Engineering and MSc. in Management Engineering, the following fields are of great interest to me:
 
 *  Software process setup and optimization
 *  Software project management

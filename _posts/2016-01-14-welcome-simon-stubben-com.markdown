@@ -1,23 +1,14 @@
 ---
 title:  "Welcome to simonstubben.com!"
-date:   2016-01-14 11:18:00
+date:   2016-01-19 11:18:00
 description: New Year - New Times - New Paths
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Thanks for passing by; it is a pleasure to have you here.
 
-Jekyll also offers powerful support for code snippets:
+This site will act as a professional blog, online business card, and reference to the projects that I take or have taken part in.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+You will find more about me, what I do and have done in the [About section](/about/). In the [Consulting section](/consulting/), I have listed my interests and skill sets, how I can add value to your company or project, and of course my contact details.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+For a new year, new times, and new paths -
+Simon Stubben
