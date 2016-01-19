@@ -5,9 +5,8 @@ profile: true
 ---
 
 Hi, I am Simon Stubben.
-===================  
-<br />
-I am a Danish tech consultant, startup advisor and Ruby On Rails developer living in Kuala Lumpur. In my spare time, I enjoy spending time with my girlfriend, doing sports, and playing guitar. I have lived in Kuala Lumpur since October 2014, as I was hired to start the Technology department in Lion & Lion Digital. In September 2015, I quit this job to set my own sails.
+=======================
+I am a Danish tech consultant, startup advisor and Ruby On Rails developer living in Kuala Lumpur. In my spare time, I enjoy spending time with my girlfriend and friends, doing sports, and playing guitar. I have lived in Kuala Lumpur since October 2014, as I was hired to start the Technology department in Lion & Lion Digital. In September 2015, I quit this job to set my own sails.
 
 You can have a look below for some of the [projects that I have taken part in](#projects). You can also read more about my experience on <a href="http://www.linkedin.com/in/simonstubben" target="_blank">LinkedIn</a> and find me on <a href="http://twitter.com/simonstubben" target="_blank">Twitter</a> and <a href="http://github.com/sstubben" target="_blank">Github</a>.
 
@@ -15,7 +14,6 @@ I'm [available for hire](/consulting/) and always up for a chat, so feel free to
 
 
 <h2 id="projects">Projects I have taken part in</h2>
-<br />
 #### My personal blog
 <a href="http://sstubben.dk" target="_blank">My personal blog</a> in Danish (some older posts are in English). Meant for my own thoughts and personal goals. Built in Wordpress with small customizations to the theme.
 

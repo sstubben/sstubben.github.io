@@ -6,7 +6,6 @@ profile: true
 
 Hey, let's work together!
 =========================
-<br />
 The last years I have participated in starting two companies in Denmark. I have consulted in setting up a support system for a large Scandinavian bank, and recently, I initiated and lead the Technology Department of a Malaysian Digital Agency. Between, I have advised in several projects and been part of some as well.
 
 What value I bring
