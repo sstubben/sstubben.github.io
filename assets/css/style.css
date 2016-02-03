@@ -694,3 +694,16 @@ button[type=submit]:hover {
     background-color: #f2f2f2;
     padding: 40px;
 }
+
+/* Addthis */
+.addthis_horizontal_follow_toolbox {
+	bottom:20px;
+	position:fixed;
+	z-index:150;
+	_position:absolute;
+	_top:expression(eval(document.documentElement.scrollTop+
+			(document.documentElement.clientHeight-this.offsetHeight)));
+	height:50px;
+	right: 0;
+	margin-right: 20px;
+}
