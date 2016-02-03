@@ -4,13 +4,8 @@ description: Software process setup & optimization, software project management,
 meta_description: Software process setup & optimization, software project management, Ruby On Rails development. Trustworthy and valuable consultancy. Get in touch.
 key_words: software development, software consultancy, software project management, software process optimization
 
-aboutPage: true
-consultingPage: true
-contactPage: true
-thanksPage: true
-
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 
 paginate: 20
 baseurl: /
