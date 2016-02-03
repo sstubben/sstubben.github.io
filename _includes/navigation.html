@@ -1,10 +1,10 @@
 <nav class="main-nav">
     {% if page.url != "/" %}
-        <a href="{{ site.baseurl }}"> <span class="arrow">←</span>{{ page.url }} {{ site.url }} {{ page.path }} Home </a>
+        <a href="{{ site.baseurl }}"> <span class="arrow">←</span>Home </a>
     {% endif %}
 
     {% if page.url != "/about/" %}
-            <a href="{{ site.baseurl }}about">About </a>
+            <a href="{{ site.baseurl }}about">{{ page.url }} {{ site.url }} {{ page.path }} About </a>
     {% endif %}
 
     {% if page.url != "/consulting/" %}
