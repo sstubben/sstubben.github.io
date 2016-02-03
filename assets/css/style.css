@@ -158,6 +158,10 @@ nav.main-nav a.cta {
 	margin-left: 12px;
 }
 
+nav.main-nav a.cta:hover {
+	background: #9E9E9E;
+}
+
 #wrapper {
   max-width: 800px;
   margin: 0 auto;
@@ -225,13 +229,16 @@ em, i { font-style: italic; }
 	color: #aaa;
 }
 
-
-
 .home h1 {
 	font-size: 30px;
 	letter-spacing: -1px;
 	color: #222;
 	font-weight: bold;
+}
+
+.contact h1 {
+	margin-top: -50px;
+	text-align: center;
 }
 
 .home h2 {
@@ -652,4 +659,37 @@ h2.month {
 	.post h2.headline { font-size: 13px; }
 	.post h1 { font-size:24px; }
 	.post h2 { font-size:20px; }
+}
+
+/* Buttons */
+button {
+	font: inherit;
+}
+
+button.cta {
+		background: #F44336;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 3px;
+}
+
+input[type=email], textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button[type=submit]:hover {
+    background-color: #9E9E9E;
+}
+
+.form-group {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 40px;
 }
