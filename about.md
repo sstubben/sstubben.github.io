@@ -10,7 +10,7 @@ I am a Danish tech consultant, startup advisor and Ruby On Rails developer livin
 
 You can have a look below for some of the [projects that I have taken part in](#projects). You can also read more about my experience on <a href="http://www.linkedin.com/in/simonstubben" target="_blank">LinkedIn</a> and find me on <a href="http://twitter.com/simonstubben" target="_blank">Twitter</a> and <a href="http://github.com/sstubben" target="_blank">Github</a>.
 
-I'm [available for hire](/consulting/) and always up for a chat, so feel free to <a href="mailto:simonstubben@gmail.com?Subject=Hello.">email me</a> or <a href="https://calendly.com/simonstubben/" target="_blank">book a time with me</a> for a Skype meeting.
+I'm [available for hire](/consulting/) and always up for a chat, so feel free to <a href="{{ site.baseurl }}contact">contact me</a> or <a href="https://calendly.com/simonstubben/" target="_blank">book a time with me</a> for a Skype meeting.
 
 
 <h2 id="projects">Projects I have taken part in</h2>

@@ -23,7 +23,7 @@ Luckily, small changes usually leave big marks. So, a company that is open for o
 
 Get in touch
 ------------
-I'm <a href="mailto:simonstubben@gmail.com?Subject=Hello." target="_top">available for hire on a contract basis</a>. I usually come in for a half day or a couple of days to have discussions with your team, leadership and be a fly on the wall to look at how you work.
+I'm <a href="{{ site.baseurl }}contact" target="_top">available for hire on a contract basis</a>. I usually come in for a half day or a couple of days to have discussions with your team, leadership and be a fly on the wall to look at how you work.
 
 You can see more about my background on <a href="http://linkedin.com/in/simonstubben" target="_blank">LinkedIn</a>.
 In case you need some referrals, I will be happy to send some contacts your way.
