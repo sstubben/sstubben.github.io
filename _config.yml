@@ -1,7 +1,7 @@
 name: Simon Stubben
-site_title: Simon Stubben - Tech & Process Consultant
-description: Software process setup & optimization, software project management, Ruby On Rails development. <a href="/contact" target="_top">Get in touch</a>.
-meta_description: Software process setup & optimization, software project management, Ruby On Rails development. Trustworthy and valuable consultancy. Get in touch.
+site_title: Simon Stubben - Development & Process Consultant
+description: Development & Software Process Consultancy. <br><br> <a href="/contact" target="_top">Get in touch</a>.
+meta_description: Ruby On Rails development, software process setup & optimization, software project management. Trustworthy and valuable consultancy. Get in touch.
 key_words: software development, software consultancy, software project management, software process optimization
 
 markdown: kramdown

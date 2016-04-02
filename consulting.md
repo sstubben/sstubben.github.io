@@ -12,10 +12,10 @@ What value I bring
 ------------------
 I have vast experience in software projects; from idea generation to execution, test and delivery. Due to my experience and my background as a BSc. in Software Engineering and MSc. in Management Engineering, the following fields are of great interest to me:
 
+*  Development, especially Ruby On Rails development
 *  Software process setup and optimization
 *  Software project management
 *  Ideation (idea generation and innovation)
-*  Development, especially Ruby On Rails development
 
 I love talking and working with this stuff. The difference between tech companies that nail it and those who do not is enormous. All it boils down to is who wants to stay atop.
 
