@@ -4,7 +4,7 @@ permalink: about/
 profile: true
 ---
 
-Hi, I am Simon Stubben.
+Hi, I am Simon.
 =======================
 I am a Danish tech consultant, startup advisor and Ruby On Rails developer living in Kuala Lumpur. In my spare time, I enjoy spending time with my girlfriend and friends, doing sports, and playing guitar. I have lived in Kuala Lumpur since October 2014, as I was hired to start the Technology department in Lion & Lion Digital. In September 2015, I quit this job to set my own sails.
 
