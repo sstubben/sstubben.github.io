@@ -14,6 +14,7 @@ I'm [available for hire](/consulting/) and always up for a chat, so feel free to
 
 
 <h2 id="projects">Projects I have taken part in</h2>
+
 #### My personal blog
 <a href="http://sstubben.dk" target="_blank">My personal blog</a> in Danish (some older posts are in English). Meant for my own thoughts and personal goals. Built in Wordpress with small customizations to the theme.
 
