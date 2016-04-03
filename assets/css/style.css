@@ -69,7 +69,6 @@ h1 {
 
 h2 {
 	color: #bbb;
-	padding-top: 10px;
 	padding-bottom: 30px;
 }
 
@@ -233,6 +232,7 @@ em, i { font-style: italic; }
 
 .home h2 {
 	color: #bbb;
+	font-size: 18px;
 }
 
 .post header {
