@@ -21,7 +21,7 @@ I'm [available for hire](/consulting/) and always up for a chat, so feel free to
 ![sstubben.dk - personal blog]({{ site.baseurl }}assets/images/sstubben.jpg)
 
 #### Det Frugtbare Kompagni // The Fruitful Fellowship (2013-2015)
-A think-tank I started in 2012 in Copenhagen. Its purpose was to gather different minds to generate ideas and give feedback on business ideas and/or business problems. I tried to get Det Frugtbare Kompagni up and running again in Kuala Lumpur in 2015. But due to lack, of time the I stopped arranging the meetups. The site was built in Ruby On Rails.
+A think-tank I started in 2012 in Copenhagen. Its purpose was to gather different minds to generate ideas and give feedback on business ideas and/or business problems. I tried to get Det Frugtbare Kompagni up and running again in Kuala Lumpur in 2015. Due to lack of time I stopped arranging the meetups. The site was built in Ruby On Rails.
 
 ![Det Frugtbare Kompagni]({{ site.baseurl }}assets/images/frugtbare.jpg)
 
