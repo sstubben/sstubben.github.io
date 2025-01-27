@@ -6,13 +6,13 @@ profile: true
 
 Hi, I am Simon.
 =======================
-I am a Danish tech consultant, startup advisor and Ruby On Rails developer living in Kuala Lumpur. In my spare time, I enjoy spending time with my girlfriend and friends, doing sports, and playing guitar. I have lived in Kuala Lumpur since October 2014, as I was hired to start the Technology department in Lion & Lion Digital. In September 2015, I quit this job to set my own sails.
-
-You can have a look below for some of the [projects that I have taken part in](#projects). You can also read more about my experience on <a href="http://www.linkedin.com/in/simonstubben" target="_blank">LinkedIn</a> and find me on <a href="http://twitter.com/simonstubben" target="_blank">Twitter</a> and <a href="http://github.com/sstubben" target="_blank">Github</a>.
+I am an experienced IT consultant with a strong background in modern IT architectures, data management, and AI-driven process optimization. My expertise extends to assisting financial institutions in navigating and automating regulatory requirements through advanced RegTech solutions.
 
 I'm [available for hire](/consulting/) and always up for a chat, so feel free to <a href="{{ site.baseurl }}contact">contact me</a> or <a href="https://calendly.com/simonstubben/" target="_blank">book a time with me</a> for a Skype meeting.
 
+Please have a look at my <a href="http://linkedin.com/in/simonstubben" target="_blank">LinkedIn</a> for my professional background.
 
+<!-- 
 <h2 id="projects">Projects I have taken part in</h2>
 
 #### My personal blog
@@ -44,6 +44,6 @@ Passioneur was a <a href="https://startupweekend.org/" target="_blank">Startup W
 Initially a London concept, Silicon Drinkabout Copenhagen was the first chapter of Silicon Drinkabout's expansion. A weekly event at different bars around Copenhagen with the sole purpose of meeting like-minded entrepreneurs. The starting of the event was lead by <a href="https://twitter.com/neilswmurray" target="_blank">Neil Murray</a>, a great British guy who moved to Copenhagen with his family and is now covering the Nordics through <a href="http://www.thenordicweb.com/" target="_blank">The Nordic Web</a>. Event was taken over by <a href="http://trendsonline.dk/" target="_blank">Trendsonline.dk</a> about a year after.
 
 ![Silicon Drinkabout Copenhagen]({{ site.baseurl }}assets/images/silicon_drinkabt_cph.jpg)
-
+ -->
 
 {% include footer.html %}
